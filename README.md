@@ -33,9 +33,10 @@ DESCRIPTION
 		2) the average speeds over a random text drawn from B of the corresponding matching machines (the length of the random text can be set with option '-r'),
 		3) the average speeds over a random text drawn from B of the corresponding expanded matching machines (the length of the random text can be set with option '-r'),
 		4) the average speeds over a random text drawn from B of the initial algorithms as implemented in SMART (S. Faro and T. Lecroq, http://www.dmi.unict.it/~faro/smart/).
-	Each kind of speed is display on a line.
-	Speeds 4) are computed only for standard algorithms (other approaches exist only as matching machines).
-	Some small variations between speeds 2) and 3-4) are allowed (matching machines corresponding to standard algorithms do not always deal exactly in the same way with the ends of texts).
+	
+		Each kind of speed is display on a line.
+		Speeds 4) are computed only for standard algorithms (other approaches exist only as matching machines).
+		Some small variations between speeds 2) and 3-4) are allowed (matching machines corresponding to standard algorithms do not always deal exactly in the same way with the ends of texts).
 
 	'draw' provides lattices and matching machines as .gv format which can be display wit xdot and graphviz utilities (http://www.graphviz.org/) for illustration purposes.
 
