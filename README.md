@@ -3,7 +3,7 @@ Asymptotic behavior of pattern matching algorithms and optimal algorithms
 
 Directory "data" contains the texts used in the articles.
 
-Directory "src" contains the C sources of all the softwares.
+Directory "src" contains the C sources of the software.
 
 -----------------------------
 | MATCHING MACHINES PACKAGE |
